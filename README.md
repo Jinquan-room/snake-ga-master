@@ -8,4 +8,6 @@ Additionally, it is possible to run the Bayesian Optimization method to find the
 
 ## Install
 This project requires Python 3.6 with the pygame library installed, as well as Pytorch. If you encounter any error with `torch=1.7.1`, you might need to install Visual C++ 2015-2019 (or simply downgrade your pytorch version, it should be fine). \
+
+
 [下载视频](https://github.com/Jinquan-room/snake-ga-master/blob/main/Test%20Video.mp4)
